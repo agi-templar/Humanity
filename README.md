@@ -1,43 +1,53 @@
-<img src="logo.png" alt="Humanity" width="80" align="right" />
+<div align="center">
+  <img src="logo.png" alt="Humanity" width="120" />
+  <h1>Humanity</h1>
+  <p>A warm, serif-first Obsidian theme with earthy tones.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Obsidian-1.0+-7c3aed?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian 1.0+" />
+    <img src="https://img.shields.io/badge/license-MIT-788c5d?style=flat-square" alt="MIT License" />
+    <img src="https://img.shields.io/badge/light_%26_dark-supported-d97757?style=flat-square" alt="Light & Dark" />
+  </p>
+</div>
 
-# Humanity
+<br/>
 
-A warm, serif-first Obsidian theme with earthy tones.
+## Palette
 
-## Design
-
-- **Palette**: Warm parchment (`#faf9f5`), deep charcoal (`#141413`), terracotta accent (`#d97757`), sage green (`#788c5d`), soft blue (`#6a9bcc`)
-- **Body text**: Lora + LXGW WenKai (CJK fallback)
-- **Code**: JetBrains Mono
-- **Light & dark mode** supported
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/%20%20%20%20%20%20%20%20-faf9f5?style=for-the-badge" /><br/><sub>Parchment</sub><br/><code>#faf9f5</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/%20%20%20%20%20%20%20%20-141413?style=for-the-badge" /><br/><sub>Charcoal</sub><br/><code>#141413</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/%20%20%20%20%20%20%20%20-d97757?style=for-the-badge" /><br/><sub>Terracotta</sub><br/><code>#d97757</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/%20%20%20%20%20%20%20%20-788c5d?style=for-the-badge" /><br/><sub>Sage</sub><br/><code>#788c5d</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/%20%20%20%20%20%20%20%20-6a9bcc?style=for-the-badge" /><br/><sub>Sky</sub><br/><code>#6a9bcc</code></td>
+  </tr>
+</table>
 
 ## Features
 
-- Serif-first typography optimized for long-form reading
-- CJK-aware font stack (LXGW WenKai, Source Han Serif SC)
-- Stable sidebar — no bold-on-hover animation
-- Earthy callout colors (tip/note/warning/important)
-- Pill-shaped tags, subtle scrollbar, refined table headers
-- Graph view color integration
+| | |
+|---|---|
+| **Serif-first typography** | Lora + LXGW WenKai for body, with CJK-aware fallback chain |
+| **Stable sidebar** | No bold-on-hover animation &mdash; clean and calm |
+| **Earthy callouts** | Distinct colors for tip, note, warning, important |
+| **Refined details** | Pill-shaped tags, subtle scrollbar, sans-serif table headers |
+| **Graph integration** | Node and line colors match the palette |
 
 ## Installation
 
-### Manual
-
 1. Download `theme.css` and `manifest.json`
-2. Create folder: `<your-vault>/.obsidian/themes/Humanity/`
-3. Place both files inside
-4. Open Obsidian → Settings → Appearance → Theme → select **Humanity**
+2. Place in `<vault>/.obsidian/themes/Humanity/`
+3. Settings &rarr; Appearance &rarr; Theme &rarr; **Humanity**
 
-## Fonts
+## Recommended Fonts
 
-For the best experience, install these fonts:
+The theme works out of the box, but looks best with these installed:
 
-- [Lora](https://fonts.google.com/specimen/Lora) — body text (Latin)
-- [LXGW WenKai](https://github.com/lxgw/LxgwWenKai) — body text (CJK)
-- [JetBrains Mono](https://www.jetbrains.com/lp/mono/) — code blocks
-
-The theme gracefully falls back to Georgia / Songti SC / Menlo if these are not installed.
+| Font | Role | Fallback |
+|------|------|----------|
+| [Lora](https://fonts.google.com/specimen/Lora) | Body text (Latin) | Georgia |
+| [LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | Body text (CJK) | Songti SC |
+| [JetBrains Mono](https://www.jetbrains.com/lp/mono/) | Code blocks | Menlo |
 
 ## License
 
