@@ -1,8 +1,8 @@
+<img src="logo.png" alt="Humanity" width="80" align="right" />
+
 # Humanity
 
 A warm, serif-first Obsidian theme with earthy tones.
-
-![Humanity](logo.png)
 
 ## Design
 
