@@ -2,6 +2,8 @@
 
 A warm, serif-first Obsidian theme with earthy tones.
 
+![Humanity](logo.png)
+
 ## Design
 
 - **Palette**: Warm parchment (`#faf9f5`), deep charcoal (`#141413`), terracotta accent (`#d97757`), sage green (`#788c5d`), soft blue (`#6a9bcc`)
