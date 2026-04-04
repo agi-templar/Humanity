@@ -47,7 +47,7 @@ The theme works out of the box, but looks best with these installed:
 |------|------|----------|
 | [Lora](https://fonts.google.com/specimen/Lora) | Body text (Latin) | Georgia |
 | [LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | Body text (CJK) | Songti SC |
-| [JetBrains Mono](https://www.jetbrains.com/lp/mono/) | Code blocks | Menlo |
+| [JetBrainsMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/JetBrainsMono.zip) | Code blocks | JetBrains Mono, Menlo |
 
 ## License
 
