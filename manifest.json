@@ -2,7 +2,8 @@
   "name": "Humanity",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
-  "description": "Warm, serif-first theme with earthy tones. Lora + LXGW WenKai for body, JetBrainsMono Nerd Font for code.",
+  "description": "A warm, serif-first Obsidian theme with earthy tones. Lora + LXGW WenKai for body, JetBrainsMono Nerd Font for code.",
+  "tags": ["obsidian-theme", "serif", "warm", "earthy", "typography", "bilingual", "dark-mode", "light-mode"],
   "author": "ruiboliu",
   "authorUrl": "https://github.com/agi-templar"
 }
