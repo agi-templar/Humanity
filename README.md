@@ -46,8 +46,16 @@ The theme works out of the box, but looks best with these installed:
 | Font | Role | Fallback |
 |------|------|----------|
 | [Lora](https://fonts.google.com/specimen/Lora) | Body text (Latin) | Georgia |
+| [Poppins](https://fonts.google.com/specimen/Poppins) | UI (sidebar, tabs) | PingFang SC, Arial |
 | [LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | Body text (CJK) | Songti SC |
 | [JetBrainsMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/JetBrainsMono.zip) | Code blocks | JetBrains Mono, Menlo |
+
+### Quick install (macOS)
+
+```bash
+brew install --cask font-lora font-poppins font-lxgw-wenkai
+brew install --cask font-jetbrains-mono-nerd-font
+```
 
 ## License
 
